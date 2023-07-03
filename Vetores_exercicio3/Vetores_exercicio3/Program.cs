@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-using System.Net.Http.Headers;
+
 
 namespace Vetores_exercicios2 // Note: actual namespace depends on the project name.
 {
