@@ -37,6 +37,7 @@ namespace MatrizesExercicio1 // Note: actual namespace depends on the project na
             {              
                     Console.Write(matrizA[i, i] + " ");             
             }
+            Console.WriteLine();
             Console.WriteLine("Numeros negativos: " + negativos);
         }
     }
